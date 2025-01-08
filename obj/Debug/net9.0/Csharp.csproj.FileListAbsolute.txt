@@ -1,0 +1,15 @@
+/Users/matheusfilipe/Documents/Code/Csharp/bin/Debug/net9.0/Csharp
+/Users/matheusfilipe/Documents/Code/Csharp/bin/Debug/net9.0/Csharp.deps.json
+/Users/matheusfilipe/Documents/Code/Csharp/bin/Debug/net9.0/Csharp.runtimeconfig.json
+/Users/matheusfilipe/Documents/Code/Csharp/bin/Debug/net9.0/Csharp.dll
+/Users/matheusfilipe/Documents/Code/Csharp/bin/Debug/net9.0/Csharp.pdb
+/Users/matheusfilipe/Documents/Code/Csharp/obj/Debug/net9.0/Csharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/matheusfilipe/Documents/Code/Csharp/obj/Debug/net9.0/Csharp.AssemblyInfoInputs.cache
+/Users/matheusfilipe/Documents/Code/Csharp/obj/Debug/net9.0/Csharp.AssemblyInfo.cs
+/Users/matheusfilipe/Documents/Code/Csharp/obj/Debug/net9.0/Csharp.csproj.CoreCompileInputs.cache
+/Users/matheusfilipe/Documents/Code/Csharp/obj/Debug/net9.0/Csharp.sourcelink.json
+/Users/matheusfilipe/Documents/Code/Csharp/obj/Debug/net9.0/Csharp.dll
+/Users/matheusfilipe/Documents/Code/Csharp/obj/Debug/net9.0/refint/Csharp.dll
+/Users/matheusfilipe/Documents/Code/Csharp/obj/Debug/net9.0/Csharp.pdb
+/Users/matheusfilipe/Documents/Code/Csharp/obj/Debug/net9.0/Csharp.genruntimeconfig.cache
+/Users/matheusfilipe/Documents/Code/Csharp/obj/Debug/net9.0/ref/Csharp.dll
